@@ -1,9 +1,4 @@
-/* =================
-  WRITE YOUR CSS HERE.
-  Check the ⌄ for help with formatting and validating your code.
-  You must write some CSS to complete this challenge.
-   ===================
-*/
+
 html,
 body {
   margin: 0;
@@ -40,7 +35,7 @@ li {
 body {
   margin: 0;
   padding-bottom: 3rem;
-  background-image: url("https://images.unsplash.com/flagged/photo-1557310265-ca22c0d46a48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80");
+  background-image: url("https://images.pexels.com/photos/13425627/pexels-photo-13425627.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=500&w=1400&dpr=1");
   background-size: cover;
   font-family: courier;
   text-align: center;
@@ -116,8 +111,3 @@ video {
 
 
 
-/* don't edit this */
-.jest-lite-report__status--pass {
-  background: var(--color-pass);
-}
-.jest-lite-report__errors { display:none }
